@@ -4,7 +4,7 @@ Welcome to the Amazon Sales Analysis project! In this repository, we will explor
 
 **Problem Statement:**
 
-As an intern at TwiLearn, our main objective is to perform a comprehensive analysis of the provided Amazon Sales Dataset. We need to address the following key questions and challenges:
+Our main objective is to perform a comprehensive analysis of the provided Amazon Sales Dataset. We need to address the following key questions and challenges:
 * **Yearly Sales Trends**: What are the annual sales trends for the company? We will delve into the dataset to identify yearly revenue patterns and understand the growth or decline in sales over time.
 * **Monthly Sales Analysis**: How do sales fluctuate on a monthly basis? By examining monthly sales data, we aim to uncover seasonal patterns and understand which months are peak sales periods.
 * **Yearly-Monthly Sales Trends**: Is there a correlation between specific months and the overall yearly sales performance? We will investigate whether certain months consistently contribute to higher or lower annual sales figures.
